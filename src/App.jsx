@@ -155,7 +155,7 @@ function App() {
 
         {/* Priority Count */}
         <div className="bg-white p-4 rounded-xl shadow space-y-2">
-          <h3 className="text-lg font-semibold mb-2">Priority Count</h3>
+          <h3 className="text-lg font-semibold mb-2">Priority Count:-</h3>
           <p className={priorityColors.Low}>Low : {priorityCount.Low}</p>
           <p className={priorityColors.Medium}>
             Medium : {priorityCount.Medium}
