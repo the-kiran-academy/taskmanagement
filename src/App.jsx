@@ -80,7 +80,7 @@ function App() {
       <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
         {/* Status Count */}
         <div className="bg-white p-4 rounded-xl shadow space-y-2">
-          <h3 className="text-lg font-semibold mb-2">Status Count</h3>
+          <h3 className="text-lg font-semibold mb-2">Status Count :-</h3>
           <p className={statusColors.Inprogress}>
             Inprogress : {statusCount.Inprogress}
           </p>
